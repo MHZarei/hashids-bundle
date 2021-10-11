@@ -1,5 +1,5 @@
 {
-  "name": "roukmoute/hashids-bundle",
+  "name": "themmsh/hashids-bundle",
   "type": "symfony-bundle",
   "description": "Integrates hashids/hashids in a Symfony project",
   "minimum-stability": "stable",
