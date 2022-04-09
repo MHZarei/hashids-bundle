@@ -1,5 +1,5 @@
 {
-  "name": "themmsh/hashids-bundle",
+  "name": "mhzarei/hashids-bundle",
   "type": "symfony-bundle",
   "description": "Integrates hashids/hashids in a Symfony project",
   "minimum-stability": "stable",
